@@ -1,5 +1,10 @@
 RAMSET3 SITE
 -lupa en search
 -color contenedor primaryMenu
+<<<<<<< HEAD
 -modificacion hecha para comprobar la branch 1
     
+=======
+-MODIFICACION HECHA PARA MOD 2
+3
+>>>>>>> mod2
